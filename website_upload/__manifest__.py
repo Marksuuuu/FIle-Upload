@@ -8,7 +8,7 @@
 
 
     'description': """
-        To easily upload a file and generate links to it
+        To easily upload a file and generate links to it. it have a custom routes .. yourlink/web/website_upload
     """,
 
     'author': "Marksuuuu",
